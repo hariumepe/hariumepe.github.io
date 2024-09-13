@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hariumepe.github.io/sitemap.html.gz
+Sitemap: https://hariumepe.github.io/app/sitemap.html.gz
+Sitemap: https://hariumepe.github.io/assets/sitemap.html.gz
+Sitemap: https://hariumepe.github.io/css/sitemap.html.gz
+Sitemap: https://hariumepe.github.io/includes/sitemap.html.gz
+Sitemap: https://hariumepe.github.io/item/sitemap.html.gz
+Sitemap: https://hariumepe.github.io/src/sitemap.html.gz
